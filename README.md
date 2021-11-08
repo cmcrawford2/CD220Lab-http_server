@@ -1,4 +1,4 @@
-# coding-project-template
+# CD220Lab-http_server
 
 Extremely basic lab with no coding on my part other than changing time zone from Brisbane to New York.
 
